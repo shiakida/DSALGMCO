@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "stack.c"   /* For the Point and Stack types, sort c does not have, idk*/
+#include "stack.c"   /* For the Point and Stack types, sort c does not have, idrk*/
 #include "sort.c" 
 
 //functions here
