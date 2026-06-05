@@ -2,11 +2,11 @@
 
     >> Encode your group number (2 digits) and last names, first names and sections of group members.  Encode the purpose of this file.
 
-    Group #: 00 (2 digits)
+    Group #: 12 (2 digits)
 
     MANGAHAS, EOWYN SABRINA  S13
-    LUMBANG, VAUGHN S14?
-    LASTNAME3, FIRSTNAME3  SECTION 
+    LUMBANG, VAUGHN S14
+    TAN, JEAN EMMANOEL S13
 
     PURPOSE OF THIS FILE: to show an example of a C header file that follows the coding guidelines/instructions.
 
