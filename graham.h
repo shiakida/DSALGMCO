@@ -2,7 +2,6 @@
 #define GRAHAM_H
  
 #include "stack.h"
- 
 #define MAX 32768
 
 //functions here
